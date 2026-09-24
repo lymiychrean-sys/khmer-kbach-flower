@@ -1,0 +1,7 @@
+# Python environment and cache (each person makes their own)
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store

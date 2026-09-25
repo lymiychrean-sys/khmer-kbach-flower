@@ -5,3 +5,6 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# Website lives in its own repo (khmer-kbach-flower-site)
+site/
